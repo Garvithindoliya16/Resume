@@ -1,0 +1,20 @@
+tr{
+        text-align: center;
+}
+
+.container  img{
+        width: 10rem;
+        float: left;
+}
+
+.container{
+        
+        width: 100vw;
+        overflow: auto;
+}
+
+.name{
+        
+       padding-left:20rem;
+       margin-top: 0;
+}
